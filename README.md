@@ -1,1 +1,2 @@
-# advent_of_code
+# Advent of Code
+Just a place to store my Advent of Code data and solutions.
