@@ -1,2 +1,2 @@
 # Advent of Code
-Just a place to store my Advent of Code data and solutions.
+Just another [Advent of Code](https://adventofcode.com/) solution repo.
